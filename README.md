@@ -17,4 +17,5 @@
 <li><a href="https://khushboo013.github.io/tryhackme/road">Road</a></li>
 <li><a href="https://khushboo013.github.io/tryhackme/tech_support-1">Tech_Support-1</a></li>
 <li><a href="https://khushboo013.github.io/tryhackme/zeno">Zeno</a></li>
+<li><a href="https://khushboo013.github.io/tryhackme/epoch">Epoch</a></li>
 </ul>
